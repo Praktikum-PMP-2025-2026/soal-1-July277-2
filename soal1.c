@@ -3,9 +3,13 @@
  *   Hari dan Tanggal    : Rabu, 29 April 2026
  *   Nama (NIM)          : Julianysyah Putra Jalinda (13224026)
  *   Nama File           : soal1modul3.c
- *   Deskripsi           : Soal 1 – Pemulihan Sensor Fragmen
- * 
- */
+ *   Deskripsi           : Soal 1 – Arsip Artefak Terkategori
+   Sebuah museum penelitian sedang merapikan basis data artefaknya. Setiap artefak tercatat dengan
+   nama, kategori, tahun penemuan, dan nilai pentingnya. Karena arsip akan dipakai oleh beberapa divisi
+   sekaligus, data harus diurutkan dengan aturan yang konsisten dan cukup rinci. Tugas Anda adalah
+   membantu sistem arsip menghasilkan urutan akhir yang sesuai dengan prioritas pengelompokan yang
+   telah disepakati.
+ **/
  #include <stdio.h>
  #include <string.h>
 
